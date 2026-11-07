@@ -1,0 +1,21 @@
+{
+  "name": "openfile",
+  "displayName": "OpenFile",
+  "version": "1.0.0",
+  "description": "Form a U.S. company or file a U.S. trademark: state fees, quotes, live USPTO search, and drafts the owner signs.",
+  "author": {
+    "name": "OpenFile"
+  },
+  "homepage": "https://joinopenfile.com/docs/mcp",
+  "repository": "https://github.com/Oopenfile/openfile-mcp",
+  "license": "MIT",
+  "keywords": [
+    "llc",
+    "company-formation",
+    "trademark",
+    "uspto",
+    "state-filing-fees",
+    "mcp"
+  ],
+  "logo": "assets/logo.png"
+}
